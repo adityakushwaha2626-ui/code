@@ -1,3 +1,3 @@
 # code
-check odd or even
-I have used % operator for this code 
+
+I have used % operator to check if num is odd or even.
